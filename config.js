@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://player.cloudinary.com/embed/?cloud_name=dfrwjot1a&public_id=v14044g50000d66nadnog65j0u51sbag_befbsf", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dfrwjot1a/video/upload/Anne-Marie_James_Arthur_-_Rewrite_The_Stars_from_The_Greatest_Showman__Reimagined__pRfmrE0ToTo_xigjxq.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
