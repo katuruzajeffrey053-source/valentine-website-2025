@@ -22,10 +22,10 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you miss me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
+            text: "Do you love me?",                                    // First interaction
+            yesBtn: "Maybe",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            secretAnswer: "I don't just love you, I miss you MOYONDIZVO ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me munhu wanguu?",                          // For the love meter
@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Yesss! I'm the luckiest Man in the world! 🎉💝💖💝💓",
         message: "Sezvo ndiri broke boyfriend this is my gift to you mudiwa wangu❤️!",
-        emojis: "🎁💖🤗💝💋❤️🤤😍"  // These will bounce around
+        emojis: "🤤😍"  // These will bounce around
     },
 
     // Color scheme for the website
