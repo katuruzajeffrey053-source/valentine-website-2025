@@ -5,11 +5,11 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Chidochashe!!",
+    valentineName: "Ashley Mugadza!!",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine Chihera 😭😭🙏🏾🙏🏾",
+    pageTitle: "Will You Be My Valentine 😭😭🙏🏾🙏🏾",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -22,18 +22,18 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you love me?",                                    // First interaction
+            text: "unondida kaa😂?",                                    // First interaction
             yesBtn: "Maybe",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't just love you, I miss you MOYONDIZVO ❤️"           // Secret hover message
+            secretAnswer: "Ndokudisisisai husband vangu 😂😂"           // Secret hover message
         },
         second: {
-            text: "How much do you love me munhu wanguu?",                          // For the love meter
+            text: "How much do you love your sekuru ?",                          // For the love meter
             startText: "This much shuwa ichochi mmm!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine for the third year in a row 😭🙏🏾🙏🏾  chatova chikumbiro", // The big question!
+            text: "Will you be my Valentine   chatova chikumbiro", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -42,15 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "Mmmmmm You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
+        extreme: "Mmmmmm You love me that much?? 😂😛",  // Shows when they go past 5000%
+        high: "To infinity and beyond! 🚀💝
+        ",              // Shows when they go past 1000%
         normal: "And beyond! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yesss! I'm the luckiest Man in the world! 🎉💝💖💝💓",
-        message: "Sezvo ndiri broke boyfriend this is my gift to you mudiwa wangu❤️!",
+        message: "Sezvo ndiri broke murume this is my gift to you mudiwa wangu❤️!",
         emojis: "🤤😍"  // These will bounce around
     },
 
